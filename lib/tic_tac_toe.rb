@@ -108,6 +108,3 @@ def play(board)
     puts "Cat's Game!"
   end
 end
-
-puts "Elisheva is the best"
-puts "Better than all the rest"
