@@ -109,4 +109,5 @@ def play(board)
   end
 end
 
-
+puts "Elisheva is the best"
+puts "Better than all the rest"
